@@ -1,10 +1,10 @@
 
 # ShopBridge API
 
-This Web is buid in .NET CORE 5 which is latest version of .NET CORE.
+This Web Api is buid in .NET CORE 5 which is latest version of .NET CORE.
 it helps to manage Inventory of Products to keep records of their Product Id, Name, Description, Price and Also It will Maintain track for Who created record then on which date product is created, Then who modified the product and which date it is modified, we can track all these activities in this api.
 
-This Web is buid in .NET CORE 5
+This Web Api is buid in .NET CORE 5
 
 
 ⚙ System Requirements
